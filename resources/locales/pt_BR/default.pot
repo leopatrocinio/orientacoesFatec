@@ -1,0 +1,168 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2020-06-07 21:10+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/AlunosController.php:56
+#: Controller/AlunosController.php:82
+msgid "The aluno has been saved."
+msgstr "O aluno foi salvo"
+
+#: Controller/AlunosController.php:60
+#: Controller/AlunosController.php:86
+msgid "The aluno could not be saved. Please, try again."
+msgstr "O aluno não pôde ser salvo. Por favor, tente novamente."
+
+#: Controller/AlunosController.php:105
+msgid "The aluno has been deleted."
+msgstr "O aluno foi excluído."
+
+#: Controller/AlunosController.php:107
+msgid "The aluno could not be deleted. Please, try again."
+msgstr "O aluno não pôde ser excluído. Por favor, tente novamente."
+
+#: Controller/CursosController.php:53
+#: Controller/CursosController.php:77
+msgid "The curso has been saved."
+msgstr "O curso foi salvo."
+
+#: Controller/CursosController.php:57
+#: Controller/CursosController.php:81
+msgid "The curso could not be saved. Please, try again."
+msgstr "Não foi possível salvar o curso. Por favor, tente novamente."
+
+#: Controller/CursosController.php:98
+msgid "The curso has been deleted."
+msgstr "O curso foi excluído."
+
+#: Controller/CursosController.php:100
+msgid "The curso could not be deleted. Please, try again."
+msgstr "Não foi possível excluir o curso. Por favor, tente novamente."
+
+#: Controller/FormatosController.php:53
+#: Controller/FormatosController.php:77
+msgid "The formato has been saved."
+msgstr "O formato foi salvo."
+
+#: Controller/FormatosController.php:57
+#: Controller/FormatosController.php:81
+msgid "The formato could not be saved. Please, try again."
+msgstr "Não foi possível salvar o formato. Por favor, tente novamente."
+
+#: Controller/FormatosController.php:98
+msgid "The formato has been deleted."
+msgstr "O formato foi excluído."
+
+#: Controller/FormatosController.php:100
+msgid "The formato could not be deleted. Please, try again."
+msgstr "Não foi possível excluir o formato. Por favor, tente novamente."
+
+#: Controller/HistoricosController.php:53
+#: Controller/HistoricosController.php:78
+msgid "The historico has been saved."
+msgstr "O histórico foi salvo."
+
+#: Controller/HistoricosController.php:57
+#: Controller/HistoricosController.php:82
+msgid "The historico could not be saved. Please, try again."
+msgstr "O histórico não pôde ser salvo. Por favor, tente novamente."
+
+#: Controller/HistoricosController.php:100
+msgid "The historico has been deleted."
+msgstr "O histórico foi excluído."
+
+#: Controller/HistoricosController.php:102
+msgid "The historico could not be deleted. Please, try again."
+msgstr "O histórico não pôde ser excluído. Por favor, tente novamente."
+
+#: Controller/OrientadoresController.php:53
+#: Controller/OrientadoresController.php:77
+msgid "The orientadore has been saved."
+msgstr "O orientador foi salvo."
+
+#: Controller/OrientadoresController.php:57
+#: Controller/OrientadoresController.php:81
+msgid "The orientadore could not be saved. Please, try again."
+msgstr "O orientador não pôde ser salvo. Por favor, tente novamente."
+
+#: Controller/OrientadoresController.php:98
+msgid "The orientadore has been deleted."
+msgstr "O orientador foi excluído."
+
+#: Controller/OrientadoresController.php:100
+msgid "The orientadore could not be deleted. Please, try again."
+msgstr "O orientador não pôde ser excluído. Por favor, tente novamente."
+
+#: Controller/TrabalhosController.php:56
+#: Controller/TrabalhosController.php:83
+msgid "The trabalho has been saved."
+msgstr "O trabalho foi salvo."
+
+#: Controller/TrabalhosController.php:60
+#: Controller/TrabalhosController.php:87
+msgid "The trabalho could not be saved. Please, try again."
+msgstr "O trabalho não pôde ser salvo. Por favor, tente novamente."
+
+#: Controller/TrabalhosController.php:107
+msgid "The trabalho has been deleted."
+msgstr "O trabalho foi excluído."
+
+#: Controller/TrabalhosController.php:109
+msgid "The trabalho could not be deleted. Please, try again."
+msgstr "O trabalho não pôde ser excluído. Por favor, tente novamente."
+
+#: Controller/TrabalhosHistoricosController.php:56
+#: Controller/TrabalhosHistoricosController.php:82
+msgid "The trabalhos historico has been saved."
+msgstr "O histórico do trabalho foi salvo."
+
+#: Controller/TrabalhosHistoricosController.php:60
+#: Controller/TrabalhosHistoricosController.php:86
+msgid "The trabalhos historico could not be saved. Please, try again."
+msgstr "O  histórico do trabalho não pôde ser salvo. Por favor, tente novamente."
+
+#: Controller/TrabalhosHistoricosController.php:105
+msgid "The trabalhos historico has been deleted."
+msgstr "O histórico do trabalho foi excluído."
+
+#: Controller/TrabalhosHistoricosController.php:107
+msgid "The trabalhos historico could not be deleted. Please, try again."
+msgstr "Não foi possível excluir o histórico do trabalho. Por favor, tente novamente."
+
+#: Controller/UsuariosController.php:61
+#: Controller/UsuariosController.php:85
+msgid "The usuario has been saved."
+msgstr "O usuario foi salvo."
+
+#: Controller/UsuariosController.php:65
+#: Controller/UsuariosController.php:89
+msgid "The usuario could not be saved. Please, try again."
+msgstr "O usuario não pôde ser salvo. Por favor, tente novamente."
+
+#: Controller/UsuariosController.php:106
+msgid "The usuario has been deleted."
+msgstr "O usuário foi excluído."
+
+#: Controller/UsuariosController.php:108
+msgid "The usuario could not be deleted. Please, try again."
+msgstr "O usuário não pôde ser excluído. Por favor, tente novamente."
+
+#: Controller/UsuariosController.php:130
+msgid "Invalid username or password"
+msgstr "Nome de usuário ou senha inválidos"
+
+#: View/Helper/PaginatorHelper.php:1268
+msgid "View"
+msgstr ""
+
